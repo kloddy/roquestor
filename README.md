@@ -1,2 +1,2 @@
 # roquestor
-Intelligent Bot that allows users/watchers to request songs available on Rocksmith.
+Intelligent Twitch Bot that allows users/watchers to request songs available on Rocksmith.
